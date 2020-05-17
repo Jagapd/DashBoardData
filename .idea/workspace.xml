@@ -49,8 +49,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/govtech/GrantApplicationData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="98" column="85" lean-forward="true" selection-start-line="98" selection-start-column="85" selection-end-line="98" selection-end-column="85" />
+            <state relative-caret-position="291">
+              <caret line="71" column="35" lean-forward="true" selection-start-line="71" selection-start-column="35" selection-end-line="71" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#781#797#0" expanded="true" />
@@ -62,7 +62,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DashBoardDara.html">
+        <entry file="file://$PROJECT_DIR$/DashBoardData.html">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="124" selection-start-column="124" selection-end-column="124" />
@@ -137,6 +137,9 @@
       <find>1.5</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -170,6 +173,7 @@
     <option name="width" value="1680" />
     <option name="height" value="947" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -191,6 +195,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -422,10 +427,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="947" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49644127" visible="true" weight="0.25885227" />
-      <window_info id="Structure" order="1" sideWeight="0.5035587" side_tool="true" visible="true" weight="0.25885227" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.495637" visible="true" weight="0.25885227" />
+      <window_info id="Structure" order="1" sideWeight="0.504363" side_tool="true" visible="true" weight="0.25885227" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -433,12 +437,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32982457" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34269005" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34269005" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32982457" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32982457" />
@@ -618,7 +622,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DashBoardDara.html">
+    <entry file="file://$PROJECT_DIR$/DashBoardData.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="124" selection-start-column="124" selection-end-column="124" />
@@ -627,8 +631,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/govtech/GrantApplicationData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="98" column="85" lean-forward="true" selection-start-line="98" selection-start-column="85" selection-end-line="98" selection-end-column="85" />
+        <state relative-caret-position="291">
+          <caret line="71" column="35" lean-forward="true" selection-start-line="71" selection-start-column="35" selection-end-line="71" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#781#797#0" expanded="true" />
