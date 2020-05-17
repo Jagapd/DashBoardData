@@ -42,6 +42,7 @@ public class GrantApplicationData {
         Open the url https://public:Let$BeC001@bgp-qa.gds-gov.tech/
         click on login button
         select preferred user and login
+        Extract and post process data.
 
      */
 
