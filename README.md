@@ -2,24 +2,24 @@
 DashBoard Data presented in HTML Format
 
 Tech Stack :
-Java,
-Selenium,
-TestNg,
-Maven,
-HTML,
-Chrome browser
+1) Java,
+2) Selenium,
+3) TestNg,
+4) Maven,
+5) HTML,
+6) Chrome browser(Headless)
 
 How to run :
 1) Install Java , Maven 
 2) Clone the repo.
 3) Import the maven dependency 
 
-From command line
+From command line type the below command. 
 mvn clean test -DsuiteXmlFile=testng.xml 
  or
 Setup the project in eclipse/Intellij and run the testng.xml file to get the results.
  
- Output is printed in console log , in text file(DashBoardData.txt) , also in html file(DashBoardData.html).
+Output is printed in console log , in text file(DashBoardData.txt) , also in html file(DashBoardData.html).
 
  About Implementation :
  
