@@ -20,9 +20,9 @@ mvn clean test -DsuiteXmlFile=testng.xml
  
  Output is printed in console log , in text file(DashBoardData.txt) , also in html file(DashBoardData.html).
  
- About implementeation :
+ About Implementation :
  
- 1) Extracted the text from source and did a parsing with help of regular expression to store the results in HashMap datastructure, finially print the result in console , HTML file , Text file 
+ 1) Extracted the text from source and did a parsing with help of regular expression to store the results in HashMap datastructure, finally print the result in console , HTML file , Text file 
  
  
  Sample output 
